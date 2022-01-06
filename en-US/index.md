@@ -1,11 +1,11 @@
 ---
-title: Work In Progress
+title: SudoTV Project
 layout: default
 localization: en-US
 ---
 
 {% include banner/not-ready.html %}
 
-# Work In Progress
+# SudoTV Project
 
 Coming Soon
