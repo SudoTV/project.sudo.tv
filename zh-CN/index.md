@@ -6,6 +6,6 @@ localization: zh-CN
 
 {% include banner/not-ready.html %}
 
-# SudoTV 项目
+# {{ page.title }}
 
 暂时没有内容。
